@@ -13,6 +13,6 @@
     "@astrojs/starlight": "^0.34.3",
     "astro": "^5.7.13",
     "starlight-blog": "^0.23.2",
-    "starlight-theme-galaxy": "^0.0.13"
+    "starlight-theme-galaxy": "^1.0.0"
   }
 }
